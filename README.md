@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Abidsk77/Abidsk77/blob/main/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Saikh Abid</h1>
 <h3 align="center">🚀 Generative AI Developer Intern | B.Tech CSBS | Passionate Coder</h3>
 
