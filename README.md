@@ -13,6 +13,8 @@
 
 ---
 
+
+
 ### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,6 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abidsk77&show_icons=true&theme=tokyonight" alt="stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abidsk77&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abidsk77&theme=tokyo-night"/>
 </p>
 
 ---
