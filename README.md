@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Saikh Abid</h1>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+
 - 🌱 Learning advanced **LLMs**, **Flask**, and **React**
 - 👯 Looking to collaborate on AI-powered apps, tools, or open-source contributions
 - 🧠 Exploring **Azure AI**, **GitHub Copilot**, and full-stack development
